@@ -8063,7 +8063,7 @@
 	)
 	(text "MCU"
 		(exclude_from_sim no)
-		(at 313.182 21.844 0)
+		(at 315.468 22.606 0)
 		(effects
 			(font
 				(face "Calibri")
@@ -8076,7 +8076,7 @@
 	)
 	(text "RST & BOOT"
 		(exclude_from_sim no)
-		(at 269.494 21.59 0)
+		(at 272.034 21.844 0)
 		(effects
 			(font
 				(face "Calibri")
@@ -8089,7 +8089,7 @@
 	)
 	(text "LOGIC INTERLOCK"
 		(exclude_from_sim no)
-		(at 44.196 122.174 0)
+		(at 48.514 122.682 0)
 		(effects
 			(font
 				(face "Calibri")
@@ -8116,7 +8116,7 @@
 	)
 	(text "CONNECTOR & INTERFACE"
 		(exclude_from_sim no)
-		(at 338.074 222.25 0)
+		(at 346.456 222.758 0)
 		(effects
 			(font
 				(face "Calibri")
@@ -8141,7 +8141,7 @@
 	)
 	(text "DRIVER & SWITCHING"
 		(exclude_from_sim no)
-		(at 217.678 121.666 0)
+		(at 222.758 122.428 0)
 		(effects
 			(font
 				(face "Calibri")
@@ -8154,7 +8154,7 @@
 	)
 	(text "POWER REGULATOR"
 		(exclude_from_sim no)
-		(at 47.752 22.86 0)
+		(at 53.594 23.114 0)
 		(effects
 			(font
 				(face "Calibri")
@@ -8167,7 +8167,7 @@
 	)
 	(text "USB C INPUT"
 		(exclude_from_sim no)
-		(at 154.686 22.098 0)
+		(at 159.258 23.876 0)
 		(effects
 			(font
 				(face "Calibri")
